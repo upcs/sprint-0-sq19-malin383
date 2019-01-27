@@ -8,7 +8,7 @@ test('adds -10 + 20 to equal 10', () => {
   expect(sum(-10, 20)).toBe(10);
 });
 
-//Fail test
-test('adds 10 + 20 to equal 10', () => {
-  expect(sum(-10, 20)).toBe(30);
-});
+// //Fail test
+// test('adds 10 + 20 to equal 10', () => {
+//   expect(sum(-10, 20)).toBe(30);
+// });
