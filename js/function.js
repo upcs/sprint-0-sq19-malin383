@@ -1,3 +1,5 @@
-function addTwoNums(x, y){
+function sum(x, y){
     return (x + y);
 }
+
+module.exports = sum;

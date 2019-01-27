@@ -1,0 +1,26 @@
+{
+  "name": "sprint-0-sq19-malin383",
+  "version": "1.0.0",
+  "description": "sprint0",
+  "main": "js/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-malin383.git"
+  },
+  "keywords": [
+    "sprint"
+  ],
+  "author": "Niraj Mali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-malin383/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-malin383#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}

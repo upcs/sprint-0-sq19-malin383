@@ -1,3 +1,3 @@
-function printSum(sum){
-    document.getElementById(id).innerHTML = sum;
+function printSum(x, y, sum){
+    document.write(x + " + " + y + " = " + sum);
 }
